@@ -1,0 +1,6 @@
+# astropy, crds and stcal are pulled in by jwst, but are listed explicitly
+# because the script imports them directly or depends on their behaviour.
+jwst>=1.14
+numpy
+astropy
+crds
