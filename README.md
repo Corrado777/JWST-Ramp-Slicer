@@ -1,4 +1,5 @@
 # JWST Ramp Slicer
+[![DOI](https://zenodo.org/badge/1317534449.svg)](https://doi.org/10.5281/zenodo.21875188)
 
 Author: Anthony Girmenia
 
