@@ -8,7 +8,7 @@ Please contact agirmen@uwo.ca if you have any difficulty installing, questions a
 If you use this code, please cite both the paper describing the method and the software itself:
 
 **Paper:**
-> Girmenia, A., & Metchev, S. (2026). Increasing Sensitivity to Trailed Solar System Objects in Archival JWST NIRCam Imaging with Group Differencing. Manuscript submitted for publication.
+> Girmenia, A., & Metchev, S. (2026). Increasing Sensitivity to Trailed Solar System Objects in Archival JWST NIRCam Imaging with Group Differencing. Manuscript submitted for peer review.
 
 **Software:**
 > Girmenia & Metchev, JWST-Ramp-Slicer, Zenodo, https://doi.org/10.5281/zenodo.21875188
