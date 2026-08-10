@@ -11,7 +11,7 @@ If you use this code, please cite both the paper describing the method and the s
 > Girmenia, A., & Metchev, S. (2026). Increasing Sensitivity to Trailed Solar System Objects in Archival JWST NIRCam Imaging with Group Differencing. Manuscript submitted for peer review.
 
 **Software:**
-> Girmenia, A. (2026). JWST-Ramp-Slicer [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21879108](https://doi.org/10.5281/zenodo.21875188)
+> Girmenia, A. (2026). JWST-Ramp-Slicer [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21875188
 
 See [`CITATION.cff`](./CITATION.cff) for full citation metadata.
 
