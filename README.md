@@ -4,7 +4,18 @@
 Author: Anthony Girmenia
 
 Please contact agirmen@uwo.ca if you have any difficulty installing, questions about the code, or general inquiries. 
+## Citing
+If you use this code, please cite both the paper describing the method and the software itself:
 
+**Paper:**
+> Girmenia, A., & Metchev, S. (2026). Increasing Sensitivity to Trailed Solar System Objects in Archival JWST NIRCam Imaging with Group Differencing. Manuscript submitted for publication.
+
+**Software:**
+> Girmenia & Metchev, JWST-Ramp-Slicer, Zenodo, https://doi.org/10.5281/zenodo.21875188
+
+See [`CITATION.cff`](./CITATION.cff) for full citation metadata.
+
+## Description
 
 This code recalibrates an $N$ group JWST NIRCam ramp into an $N-1$ sequence of group-difference images. 
 
@@ -68,10 +79,4 @@ For an exposure with `NGROUPS` groups and `NINTS` integrations that is
 
 ## Notes
 A two-point least-squares slope is exact, so running `RampFitStep` on a 2-group window is not an approximation of a difference, but exactly `(G_{k+1} - G_k) / TGROUP`
-
-## Citation
-
-If you use this in published work, please cite:
-
-> *(paper reference to be added)*
 
