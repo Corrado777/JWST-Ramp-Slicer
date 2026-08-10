@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the paper describing the
+  method (see preferred-citation) and the software itself (this record's DOI)."
+authors:
+- family-names: "Girmenia"
+  given-names: "Anthony"
+  orcid: "https://orcid.org/0009-0001-7655-040X"
+title: "JWST-Ramp-Slicer"
+version: 1.0.0
+doi: 10.5281/zenodo.21875189
+date-released: 2026-08-10
+url: "https://github.com/Corrado777/JWST-Ramp-Slicer"
+preferred-citation:
+  type: unpublished
+  status: submitted
+  title: "Increasing Sensitivity to Trailed Solar System Objects in Archival JWST NIRCam Imaging with Group Differencing"
+  authors:
+    - family-names: Girmenia
+      given-names: Anthony
+    - family-names: Metchev
+      given-names: Stanimir
+  year: 2026
+  notes: "Submitted to The Astronomical Journal."
