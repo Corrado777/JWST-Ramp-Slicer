@@ -169,7 +169,7 @@ def _group_diff_timing(
 
     t_eff(k) = int_start + TFRAME * (NFRAMES + 1) / 2 + k * TGROUP
     """
-    offset_s = tframe * (nframes + 1) / 2.0
+    offset_s = tframe * nframes  / 2.0
 
     t_start = int_start_mjd + (offset_s + k * tgroup) / 86400.0
     t_end = int_start_mjd + (offset_s + (k + 1) * tgroup) / 86400.0
