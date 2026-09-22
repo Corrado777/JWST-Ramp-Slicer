@@ -17,7 +17,7 @@ abstract: >-
 
 preferred-citation:
   type: unpublished
-  status: submitted
+  status: Accepted
   title: "Increasing Sensitivity to Trailed Solar System Objects in Archival JWST NIRCam Imaging with Group Differencing"
   authors:
     - family-names: Girmenia
@@ -25,4 +25,4 @@ preferred-citation:
     - family-names: Metchev
       given-names: Stanimir
   year: 2026
-  notes: "Submitted for peer review."
+  notes: "Accepted for publication in the Astronomical Journal."
